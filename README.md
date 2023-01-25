@@ -1,3 +1,3 @@
-# shrunjala.github.io
+# Shrunjala Mul
 
 This is my Project Dump!
